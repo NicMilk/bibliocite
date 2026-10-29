@@ -1,3 +1,4 @@
-# sb1-w7rnremm
+# bibliocite
+Une petite API REST de gestion de bibliothèque avec Laravel 12 et SQLite.
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/NicMilk/sb1-w7rnremm)
+Le lien : /github.com/NicMilk/sb1-w7rnremm)
